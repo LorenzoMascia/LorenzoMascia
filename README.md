@@ -1,7 +1,7 @@
 # Hi there, I'm @LorenzoMascia 👋
 
 🎓 Currently pursuing a Master's in Management Engineering  
-💻 Software Engineer Intern @ Ericsson  
+💻 Product Developer @ Ericsson  
 🛠️ Building side projects & exploring tech in my spare time  
 📍 Based in Naples, Italy  
 
